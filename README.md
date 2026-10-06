@@ -29,7 +29,7 @@ salt-okunur tasarım ([ADR-0001](https://github.com/acar32furkan-glitch/trendyol
 | [ceviri-kalite-kontrol](https://github.com/acar32furkan-glitch/ceviri-kalite-kontrol) | AI destekli çeviri kalite kontrol prototipi (Next.js + DeepSeek) |
 | [arvonya-website](https://github.com/acar32furkan-glitch/arvonya-website) | Müşteri kurumsal sitesi — TanStack Start (SSR) + Supabase · [canlı](https://arvonya-site.vercel.app) |
 | [enorpa-eclectic-web](https://github.com/acar32furkan-glitch/enorpa-eclectic-web) | Çok dilli (TR/EN/RU) kurumsal site + içerik paneli; WordPress göçü, 301 + JSON-LD · [canlı](https://enorpa-eclectic-web.vercel.app) |
-| [smart-second-brain-tr](https://github.com/acar32furkan-glitch/smart-second-brain-tr) | Smart Second Brain Obsidian eklentisi için Türkçe dokümantasyon/yerelleştirme çalışması (orijinal: [s2b-dev](https://github.com/s2b-dev/smart-second-brain), MIT) |
+| [smart-second-brain-tr](https://github.com/acar32furkan-glitch/smart-second-brain-tr) | Smart Second Brain Obsidian eklentisinin Türkçe sürümü: arayüz yerelleştirmesi, en/tr i18n katmanı ve **ölçülebilir yerelleştirme kapısı** ([kurulabilir 2.3.1 sürümü](https://github.com/acar32furkan-glitch/smart-second-brain-tr/releases/tag/2.3.1)) — orijinal: [s2b-dev](https://github.com/s2b-dev/smart-second-brain), MIT |
 
 ## Nasıl çalıştığım
 
