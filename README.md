@@ -73,4 +73,4 @@ websites — and publish tested open-source tooling for Turkish e-commerce. Ever
 I write the specs and acceptance tests and direct AI coding assistants; test and CI gates are mandatory for that reason.
 Test counts come from the latest CI runs on `main` (15 Nov 2026).
 
-**İletişim / Contact:** acar32furkan@gmail.com
+**İletişim / Contact:** acar32furkan@gmail.com · [LinkedIn](https://www.linkedin.com/in/furkan-acar-dev)
