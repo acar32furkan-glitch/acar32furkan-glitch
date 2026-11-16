@@ -35,7 +35,7 @@ Python projeleri: ruff · `mypy --strict` · pytest (3.12 + 3.13) · TS/Node pro
 | [sa-printpro](https://github.com/acar32furkan-glitch/sa-printpro) | Trendyol satıcıları için %100 statik, white-label vitrin şablonu (Astro + Cloudflare Pages) |
 | [ceviri-kalite-kontrol](https://github.com/acar32furkan-glitch/ceviri-kalite-kontrol) | AI destekli çeviri kalite kontrol prototipi (Next.js) · [canlı demo](https://ceviri-kalite-kontrol.vercel.app) |
 | [arvonya-website](https://github.com/acar32furkan-glitch/arvonya-website) | Müşteri kurumsal sitesi — TanStack Start (SSR) + Supabase · [canlı](https://arvonya-site.vercel.app) |
-| [enorpa-eclectic-web](https://github.com/acar32furkan-glitch/enorpa-eclectic-web) | Çok dilli (TR/EN/RU) kurumsal site + içerik paneli; WordPress göçü, 301 + JSON-LD · [canlı](https://enorpa-eclectic-web.vercel.app) |
+| [enorpa-eclectic-web](https://github.com/acar32furkan-glitch/enorpa-eclectic-web) | Bir kazan üreticisinin WordPress sitesini, talep edilmeden kendi girişimimle çok dilli (TR/EN/RU) bir siteye ve içerik paneline dönüştüren yeniden tasarım demosu (müşteri işi değil); 301 + JSON-LD · [canlı demo](https://enorpa-eclectic-web.vercel.app) |
 | [smart-second-brain-tr](https://github.com/acar32furkan-glitch/smart-second-brain-tr) | Smart Second Brain Obsidian eklentisinin Türkçe sürümü: arayüz yerelleştirmesi, en/tr i18n katmanı ve **ölçülebilir yerelleştirme kapısı** ([kurulabilir 2.3.1 sürümü](https://github.com/acar32furkan-glitch/smart-second-brain-tr/releases/tag/2.3.1)) — orijinal: [s2b-dev](https://github.com/s2b-dev/smart-second-brain), MIT |
 
 Kodu özel olan canlı işler: Shopify mağaza operasyonu ve pazaryeri entegrasyonları (n11, Amazon.com.tr, Hepsiburada),
