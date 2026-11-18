@@ -12,6 +12,14 @@ kurumsal siteler) ve Türkiye'de e-ticaret operasyonunu ile çeviri kalitesini *
 otomatikleştiren** açık kaynak araçlar yayınlıyorum: pazaryeri verisini açan araçlar, deterministik kalite
 kapıları ve kanıt göstermeyen çıktı üretmeyen çıkarım araçları.
 
+## Şu an
+
+- **Arıyorum:** Shopify ve pazaryeri entegrasyonu (Trendyol, n11, Hepsiburada, Amazon.com.tr) işlerinde uzaktan veya hibrit
+  pozisyonlar ve seçilmiş freelance projeler.
+- **Üzerinde çalışıyorum:** açık kaynak araçlarımın bakımı (MCP sunucuları, kalite kapıları) ve küçük işletmeler için canlı
+  sistemler.
+- **Currently:** open to remote or hybrid roles and selected freelance work in e-commerce integration; contact below.
+
 ## Öne çıkan projeler
 
 | Proje | Ne yapar | Kanıt |
