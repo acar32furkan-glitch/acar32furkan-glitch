@@ -5,6 +5,9 @@
 **Full-stack geliştirici · e-ticaret otomasyonu ve AI araçları** — Isparta, Türkiye · uzaktan çalışmaya açık  
 **Full-stack developer · e-commerce automation & AI tooling** — Isparta, Türkiye · open to remote
 
+
+**[Web CV](https://acar32furkan-glitch.github.io/cv/)** · [Özet görünüm](https://acar32furkan-glitch.github.io/cv/#r=1) · [LinkedIn](https://www.linkedin.com/in/furkan-acar-dev/)
+
 </div>
 
 Küçük işletmeler için canlı sistemler kuruyorum (Shopify ve pazaryeri entegrasyonları, restoran operasyon paneli,
